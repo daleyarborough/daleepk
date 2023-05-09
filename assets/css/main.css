@@ -8,7 +8,7 @@
 */
 
 #presave {
-	border-color: #1DB954;
+	border-color: #1DB954 !important;
 }
 
 html, body, div, span, applet, object,
